@@ -16,4 +16,8 @@ Before contributing, please see the Contributing Guide (Coming soon).
 
 ## License
 
-Free to use for personal and commercial projects. 
+"Halcyon Days" One Page Website Template by Peter Finlan
+
+Use it freely but please do not redistribute or sell. 
+
+Enjoy!
